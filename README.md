@@ -2,6 +2,9 @@
 
 Interactive Power BI dashboard analyzing NVIDIA GPU sales performance from **2022 to 2025**.
 
+<img width="1920" height="1080" alt="Aaryan-Rajora14 (Aaryan Rajora) and 1 more page - Personal - Microsoft​ Edge 21-08-2026 17_42_13" src="https://github.com/user-attachments/assets/909574d6-860d-4578-8e70-ce8bfab252a1" />
+
+
 ## Overview
 
 This report provides a comprehensive view of NVIDIA’s GPU sales across data-center and consumer products. It includes key performance metrics, regional breakdowns, product-level analysis, and dedicated product showcase pages.
