@@ -13,6 +13,9 @@ This report provides a comprehensive view of NVIDIA’s GPU sales across data-ce
 - **Sales Overview** – High-level KPIs, revenue by region, units sold, GPU model performance, and interactive filters
 - **GPU 1 & GPU 2** – Detailed product cards for key GPUs with pricing, specs highlights, and direct links
 
+<img width="1920" height="1080" alt="Aaryan-Rajora14 (Aaryan Rajora) and 1 more page - Personal - Microsoft​ Edge 21-08-2026 17_42_15" src="https://github.com/user-attachments/assets/b7f051f6-1bbf-4ba3-9cd6-a5057f038e01" />
+
+
 ### Key Metrics & Visuals
 - Total Sales & Units Sold
 - Revenue by Region (North America, Europe, Rest of World)
