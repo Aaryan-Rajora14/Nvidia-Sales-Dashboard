@@ -37,7 +37,6 @@ This report provides a comprehensive view of NVIDIA’s GPU sales across data-ce
 - Advanced Pie/Donut
 - Sunburst
 - Chiclet Slicer
-- Image Carousel
 - Inforiver Charts
 
 ## How to Use
