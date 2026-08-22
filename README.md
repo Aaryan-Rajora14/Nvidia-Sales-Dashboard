@@ -17,7 +17,6 @@ This report provides a comprehensive view of NVIDIA’s GPU sales across data-ce
 
 <img width="1920" height="1080" alt="Aaryan-Rajora14 (Aaryan Rajora) and 1 more page - Personal - Microsoft​ Edge 21-08-2026 17_42_18" src="https://github.com/user-attachments/assets/4e500f89-6a22-4a3f-bd0b-a3d9e866babe" />
 
-
 ### Key Metrics & Visuals
 - Total Sales & Units Sold
 - Revenue by Region (North America, Europe, Rest of World)
