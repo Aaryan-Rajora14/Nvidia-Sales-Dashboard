@@ -50,6 +50,6 @@ Designed with NVIDIA’s official green (`#76B900`) branding and modern card-bas
 
 **File:** `Nvidia Sales Overview.pbix`
 
-Please like this on linkedin: - https://lnkd.in/p/dxWtMD9K
+Please Give a like this on My linkedin: - https://lnkd.in/p/dxWtMD9K
 
 This is Sixth Dashboard.
